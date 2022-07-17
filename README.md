@@ -57,20 +57,21 @@
   <code><img src="https://img.icons8.com/color/48/000000/python.png" title="Python"  alt="Python" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/django.png" title="Django"  alt="Django" width="40" height="40"/></code>
 </div>
-
+  <a><img alt="Bamidele's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=efunnuga-bamidele&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <br/>
+  
 ### :fire: Interests
 👍 Software Development    <br/>
 👍 Embedded Systems Design   <br/>
 👍 App Development  <br/>
 👍 Web Development     <br/>
 
-### 📊 Github stats
+<!-- ### 📊 Github stats -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efunnuga-bamidele&theme=dark&background=1F222E)](https://git.io/streak-stats)
   <br/>
  -->
-  <a><img alt="Bamidele's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=efunnuga-bamidele&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
+
 
 
 <!-- <a><img alt="Bamidele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=efunnuga-bamidele&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
