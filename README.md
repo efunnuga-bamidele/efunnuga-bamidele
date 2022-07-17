@@ -44,7 +44,7 @@
 
 <div>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" title="RaspberryPI" alt="RaspberryPI" width="40" height="40"/></code>
+<!--   <code><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" title="RaspberryPI" alt="RaspberryPI" width="40" height="40"/></code> -->
   <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C" width="40" height="40"/></code>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
