@@ -87,12 +87,12 @@ I'm an Embedded Syetems Engineer and a Software Developer <img src="https://medi
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
   <br/>
     <a><img alt="Bamidele's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=efunnuga-bamidele&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a><img alt="Roshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=efunnuga-bamidele&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a><img alt="Bamidele's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=efunnuga-bamidele&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
 
-<a><img alt="Bamidele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roshan9419&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
+<a><img alt="Bamidele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=efunnuga-bamidele&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/befunnuga/" target="_blank">
