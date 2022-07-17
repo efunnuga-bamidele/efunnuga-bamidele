@@ -24,7 +24,7 @@
 
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-  <a href="https://github.com/roshan9419"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/roshan9419?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+
 </div>
 
 ### :man_technologist: About Me :
