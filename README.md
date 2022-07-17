@@ -48,10 +48,8 @@ I'm an Embedded Syetems Engineer and a Software Developer <img src="https://medi
   <code><img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C" width="40" height="40"/></code>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></code>
-   <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap UI" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></code>
    <code><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></code>
     <code><img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" alt="Kotlin" width="40" height="40"/></code>
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase" width="40" height="40"/></code>
