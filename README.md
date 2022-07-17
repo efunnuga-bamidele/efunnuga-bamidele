@@ -22,10 +22,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<!-- <div align="center"> -->
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 
-</div>
+<!-- </div> -->
+  <a href="https://github.com/roshan9419"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/roshan9419?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
 
 ### :man_technologist: About Me :
 I'm an Embedded Syetems Engineer and a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
