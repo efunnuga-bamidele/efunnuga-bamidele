@@ -29,7 +29,8 @@
 <img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
 </div>
 <br/>
-:man_technologist: About Me : I'm an Embedded Systems Engineer and a Software Developer from Nigeria.
+### :hammer_and_wrench : man_technologist: About Me : 
+I'm an Embedded Systems Engineer and a Software Developer from Nigeria.
 
 - :telescope: I’m working as a Freelance Developer and Hardware Engineer.
 
@@ -61,7 +62,6 @@
 👍 Software Development    <br/>
 👍 Embedded Systems Design   <br/>
 👍 App Development  <br/>
-👍 AI / ML    <br/>
 👍 Web Development     <br/>
 
 ## 📊 Github stats
