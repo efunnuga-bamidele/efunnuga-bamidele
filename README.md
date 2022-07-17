@@ -35,7 +35,7 @@
 
 - :seedling: Exploring Latest Embedded Systems Implementations.
 
-- :zap: In my free time, I build smart electronic devices and read tech trends.
+- :zap: In my free time, I build smart electronic devices and cook :blush:.
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ebamidele-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/befunnuga/) -->
 
