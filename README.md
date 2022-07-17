@@ -29,7 +29,7 @@
 <img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
 </div>
 <br/>
-## 📊 :man_technologist: About Me : I'm an Embedded Systems Engineer and a Software Developer from Nigeria.
+## :man_technologist: About Me : I'm an Embedded Systems Engineer and a Software Developer from Nigeria.
 
 - :telescope: I’m working as a Freelance Developer and Hardware Engineer.
 
@@ -57,7 +57,7 @@
   <code><img src="https://img.icons8.com/color/48/000000/django.png" title="Django"  alt="Django" width="40" height="40"/></code>
 </div>
 
-## 📊 Interests
+## :fire: Interests
 👍 Software Development    <br/>
 👍 Embedded Systems Design   <br/>
 👍 App Development  <br/>
