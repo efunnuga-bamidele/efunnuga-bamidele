@@ -26,7 +26,7 @@
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 
 <!-- </div> -->
-  <a href="https://github.com/roshan9419"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/roshan9419?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+
 
 ### :man_technologist: About Me :
 I'm an Embedded Syetems Engineer and a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
@@ -37,7 +37,7 @@ I'm an Embedded Syetems Engineer and a Software Developer <img src="https://medi
 
 - :zap: In my free time, I build smart electronic devices and read tech trends.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/befunnuga/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ebamidele-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/befunnuga/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
