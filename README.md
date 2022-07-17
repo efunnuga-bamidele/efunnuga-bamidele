@@ -75,6 +75,15 @@
 
 <!-- <a><img alt="Bamidele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=efunnuga-bamidele&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
+---
+
+<details>
+  <summary> ⚡️ Github Stats</summary>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efunnuga-bamidele&show_icons=true&theme=light&line_height=27&hide_border=true" alt="Dbrandy's Github stats"/>
+
+</details>
+
 ### Connect With Me
 <a href="https://www.linkedin.com/in/befunnuga/" target="_blank">
   <img align="left" alt="Bamidele's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
