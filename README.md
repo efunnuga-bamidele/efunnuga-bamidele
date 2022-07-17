@@ -66,7 +66,7 @@ I'm an Embedded Syetems Engineer and a Software Developer <img src="https://medi
 ### Interests
 👍 Software Development  
 👍 Embedded Systems Design 
-👍 App Development  
+👍 App Development
 👍 AI / ML  
 👍 Web Development   
 
