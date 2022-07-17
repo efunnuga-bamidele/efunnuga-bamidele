@@ -29,9 +29,9 @@
 <img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
 </div>
 <br/>
-### :man_technologist: About Me : I'm an Embedded Syetems Engineer and a Software Engineer from Nigeria.
+### :man_technologist: About Me : I'm an Embedded Systems Engineer and a Software Developer from Nigeria.
 
-- :telescope: I’m working as a Freelance Software Engineer.
+- :telescope: I’m working as a Freelance Software and Hardware Engineer.
 
 - :seedling: Exploring Latest Embedded Systems Implementations.
 
@@ -49,7 +49,6 @@
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></code>
-   <code><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/></code>
     <code><img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" alt="Kotlin" width="40" height="40"/></code>
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase" width="40" height="40"/></code>
@@ -57,8 +56,6 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/python.png" title="Python"  alt="Python" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/django.png" title="Django"  alt="Django" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask"  alt="Flask" width="40" height="40"/></code>
-
 </div>
 
 ### Interests
