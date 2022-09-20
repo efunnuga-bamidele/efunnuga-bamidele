@@ -50,7 +50,7 @@
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></code>
-    <code><img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" alt="Kotlin" width="40" height="40"/></code>
+    <!--  <code><img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" alt="Kotlin" width="40" height="40"/></code> -->
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></code>
