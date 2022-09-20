@@ -45,18 +45,16 @@
 <div>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/></code>
 <!--   <code><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" title="RaspberryPI" alt="RaspberryPI" width="40" height="40"/></code> -->
-  <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+  <!--  <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code> -->
   <code><img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C" width="40" height="40"/></code>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/000000/php.png" title="PHP"  alt="PHP" width="40" height="40"/></code>
     <code><img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" alt="Kotlin" width="40" height="40"/></code>
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"  alt="React" width="40" height="40"/></code>
-  <code><img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native"  alt="React Native" width="40" height="40"/></code>
 </div>
   <br/>
   <a><img alt="Bamidele's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=efunnuga-bamidele&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
