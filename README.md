@@ -68,22 +68,22 @@
 👍 App Development  <br/>
 👍 Web Development     <br/>
 
-<!-- ### 📊 Github stats -->
+### 📊 Github stats
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efunnuga-bamidele&theme=dark&background=1F222E)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efunnuga-bamidele&theme=dark&background=1F222E)](https://git.io/streak-stats)
   <br/>
- -->
 
 
 
-<!-- <a><img alt="Bamidele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=efunnuga-bamidele&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+
+<a><img alt="Bamidele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=efunnuga-bamidele&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
 <details>
   <summary> ⚡️ Github Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efunnuga-bamidele&show_icons=true&theme=light&line_height=27&hide_border=true" alt="Dbrandy's Github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efunnuga-bamidele&show_icons=true&theme=light&line_height=27&hide_border=true" alt="EBamideles's Github stats"/>
 
 </details>
 
