@@ -68,10 +68,10 @@
 👍 App Development  <br/>
 👍 Web Development     <br/>
 
-### 📊 Github stats
+<!-- ### 📊 Github stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efunnuga-bamidele&theme=dark&background=1F222E)](https://git.io/streak-stats)
-  <br/>
+  <br/> -->
 
 
 
@@ -83,7 +83,7 @@
 <details>
   <summary> ⚡️ Github Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efunnuga-bamidele&show_icons=true&theme=light&line_height=27&hide_border=true" alt="EBamideles's Github stats"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=efunnuga-bamidele&show_icons=true&theme=light&line_height=27&hide_border=true" alt="EBamideles's Github stats"/> -->
 
 </details>
 
