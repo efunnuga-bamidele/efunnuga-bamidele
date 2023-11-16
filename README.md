@@ -11,8 +11,6 @@
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efunnuga-bamidele&label=Profile%20views&color=0e75b6&style=flat" alt="efunnuga-bamidele" /> </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Technologies I Have Learnt
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
