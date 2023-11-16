@@ -46,6 +46,7 @@
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite)
 
 ### 🛠 &nbsp;Technologies I Use Regularly
 
