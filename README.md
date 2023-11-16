@@ -52,8 +52,8 @@
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite)
 <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=61DAFB"></a>
-<a href="#"><img alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=61DAFB"></a>
+<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF"></a>
+<a href="#"><img alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=%23ffffff"></a>
 
 ### 🛠 &nbsp;Technologies I Use Regularly
 
