@@ -45,7 +45,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![postgreSQL](https://img.shields.io/badge/-postgreSQL-4169E1?style=flat&logo=postgresql)
+![postgreSQL](https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite)
 
 ### 🛠 &nbsp;Technologies I Use Regularly
