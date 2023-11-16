@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/befunnuga/" target="blank">
 Bamidele</a></h1>
-<h3 align="center">A passionate Fullstack Developer from Lagos, Nigeria &#127470;&#127475</h3>
+<h3 align="center">A passionate Full Stack Developer @ Trade Lenda | Electronic Engineering from Lagos, Nigeria &#127470;&#127475</h3>
 
 <p align="left"> <a href="https://twitter.com/BamideleEfunnu2" target="blank"><img src="https://img.shields.io/twitter/follow/BamideleEfunnu2?logo=twitter&style=for-the-badge" alt="BamideleEfunnu2" /></a> </p>
 
@@ -8,21 +8,18 @@ Bamidele</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🔭 I’m currently working at <a href="https://tradelenda.com" target="blank">TradeLenda</a>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Flutter && Dart.
+  
+- 🧗 I try to: Go beyond and push the bounds
+  
+- 📫 How to reach me **bamideleefunnuga9@gmail.com**
+  
+- ⚡ Fun fact: I just want to learn as much as i can about science and technology.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
