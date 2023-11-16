@@ -43,7 +43,7 @@ Bamidele</a></h1>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### 🛠 &nbsp;Other Technologies I Have Learnt Over The Years
+### 🛠 &nbsp;Other Technologies I Have Learnt / Used Over The Years
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
