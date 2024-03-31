@@ -12,7 +12,7 @@ Bamidele</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Flutter & Dart.
   
 - 🧗 I try to: Go beyond and push the bounds
   
