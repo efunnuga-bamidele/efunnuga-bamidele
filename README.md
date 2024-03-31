@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/befunnuga/" target="blank">
 Bamidele</a></h1>
-<h3 align="center">A passionate Full Stack Developer @ Trade Lenda | Electronic Engineering from Lagos, Nigeria</h3>
+<h3 align="center">A passionate Full Stack Developer @ Trade Lenda | Embedded Syetems Engineer from Lagos, Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/BamideleEfunnu2" target="blank"><img src="https://img.shields.io/twitter/follow/BamideleEfunnu2?logo=twitter&style=for-the-badge" alt="BamideleEfunnu2" /></a> </p>
 
