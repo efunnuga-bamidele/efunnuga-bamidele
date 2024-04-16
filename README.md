@@ -12,7 +12,7 @@ Bamidele</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Flutter & Dart.
+- 🌱 I’m currently learning NextJS.
   
 - 🧗 I try to: Go beyond and push the bounds
   
@@ -60,6 +60,8 @@ Bamidele</a></h1>
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=for-the-badge&logo=R&logoColor=276DC3)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)
+<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-7F52FF?style=for-the-badge&logo=Flutter&logoColor=61DAFB"></a>
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
